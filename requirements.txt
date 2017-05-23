@@ -1,0 +1,7 @@
+appdirs==1.4.3
+olefile==0.44
+packaging==16.8
+Pillow==4.1.1
+pronouncing==0.1.5
+pyparsing==2.2.0
+six==1.10.0
